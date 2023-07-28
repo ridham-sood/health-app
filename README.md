@@ -3,6 +3,11 @@
 
 Healthwise is a comprehensive health tracking website that empowers individuals to monitor and manage their well-being through personalized insights, data-driven recommendations, and intuitive tools.
 
+## Frontend
+
+- [Frontend](https://github.com/ridham-sood/health)
+
+  
 ## Authors
 
 - [@ridham-sood](https://github.com/ridham-sood)
